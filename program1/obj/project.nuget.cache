@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMJo1Byt/uQ=",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\program1\\program1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nk\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.2\\microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512",
+    "C:\\Users\\nk\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
+    "C:\\Users\\nk\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
